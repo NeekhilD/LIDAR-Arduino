@@ -64,3 +64,4 @@ The modern video workflow, `(re)defined`
 <img align="left" width="30px" src="https://assets-global.website-files.com/60acbb950c4d6606963e1fed/60c1f214c64e0975106806fb_flaskapi.svg"/>
 <img align="left" width="120px" src="https://image4.owler.com/logo/ardusat_owler_20160228_024534_original.png"/>
 <img align="left" width="120px" src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/22145/azA7aad0SPiJCTOHAtuc"/>
+<img align="left" width="120px" src="https://tooljet.com/img/logo/text-logo-blue.svg"/>
