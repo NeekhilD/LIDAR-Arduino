@@ -59,3 +59,4 @@ The general public will be allowed to use these Arduinos and sensors for their o
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
 <img align="left" width="150px" src="https://www.openlidar.net/wp-content/uploads/2016/05/OpenLidarLogoText.png"/>
 <img align="left" width="50px" src="https://micronaut.io/wp-content/themes/micronaut/img/astronaut.png"/>
+<img align="left" width="30px" src="https://assets-global.website-files.com/60acbb950c4d6606963e1fed/60c1f214c64e0975106806fb_flaskapi.svg"/>
