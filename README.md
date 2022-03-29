@@ -38,11 +38,11 @@ The general public will be allowed to use these Arduinos and sensors for their o
 
 
 
-
+<!--
 # FRAME.IO
 The modern video workflow, `(re)defined`
-
 <img align="center" width="800px" src="http://discountcode.online/wp-content/uploads/2018/12/frame.io-promo.png"/></br>
+ -->
 
 
 
@@ -56,7 +56,7 @@ The modern video workflow, `(re)defined`
 ## With The Help Of  
 
 
-<img align="left" width="50px" src="https://user-images.githubusercontent.com/26859754/160555283-cc38287b-f8b1-460a-beba-f0c3439c039f.png"/>
+<!--<img align="left" width="50px" src="https://user-images.githubusercontent.com/26859754/160555283-cc38287b-f8b1-460a-beba-f0c3439c039f.png"/>-->
 <img align="left" width="20px" src="https://comma.ai/comma-white.png"/>
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
 <img align="left" width="150px" src="https://www.openlidar.net/wp-content/uploads/2016/05/OpenLidarLogoText.png"/>
