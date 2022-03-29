@@ -10,8 +10,11 @@
 
 
 
+## Photogrammetry
+> "Photogrammetry is the science and technology of obtaining information about the physical environment from images, with a focus on applications in surveying, mapping and high-precision metrology. The aim of photogrammetry is to provide automated or semi-automated procedures for these engineering tasks, with emphasis on a specified accuracy, reliability, and completeness of the information."
 
-Arduino code
+
+## Arduino code
 Thank to the Servo.h and LIDARLite.h Arduino libraries, the code to control these elements is made much easier. The basic work-flow of the code is the following:
 
  ``` Init. lidar, servos and serial; 
