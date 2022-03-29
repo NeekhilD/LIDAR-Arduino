@@ -30,6 +30,47 @@ The micro-controller only knows the angles of the servos and the distance to the
 
 
 
+## Can Be Deployed in `ARDUSAT`
+
+<img align="left" width="500px" src="https://i.pinimg.com/originals/9d/6a/db/9d6adb9b5865a9902d8ea2eeb515c1e5.png"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
