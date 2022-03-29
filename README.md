@@ -32,132 +32,11 @@ The micro-controller only knows the angles of the servos and the distance to the
 
 ## Can Be Deployed in `ARDUSAT`
 
-<img align="left" width="500px" src="https://i.pinimg.com/originals/9d/6a/db/9d6adb9b5865a9902d8ea2eeb515c1e5.png"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img align="center" width="500px" src="https://i.pinimg.com/originals/9d/6a/db/9d6adb9b5865a9902d8ea2eeb515c1e5.png"/>
+
+> ArduSat is an Arduino based nanosatellite, based on the CubeSat standard. 
+It contains a set of Arduino boards and sensors.
+The general public will be allowed to use these Arduinos and sensors for their own creative purposes while they are in space.
 
 
 
@@ -179,3 +58,4 @@ The micro-controller only knows the angles of the servos and the distance to the
 <img align="left" width="20px" src="https://comma.ai/comma-white.png"/>
 <img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png"/>
 <img align="left" width="150px" src="https://www.openlidar.net/wp-content/uploads/2016/05/OpenLidarLogoText.png"/>
+<img align="left" width="50px" src="https://micronaut.io/wp-content/themes/micronaut/img/astronaut.png"/>
