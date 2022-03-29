@@ -1,4 +1,4 @@
-#  Photogrammetry Using LIDAR + ARDUINO
+#  Photogrammetry Using LIDAR + ARDUINO `(POLA)`
 
 
 <p align="left">
