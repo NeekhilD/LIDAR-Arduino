@@ -1,7 +1,9 @@
 #  Photogrammetry Using LIDAR + ARDUINO `(POLA)`
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
 `1.` <img src="https://user-images.githubusercontent.com/26859754/160553016-117dd5ed-b7cf-4b82-a406-24accdca9507.png" width="500"/></br>
 `2.` <img src="https://user-images.githubusercontent.com/26859754/160553172-300a27d5-dfde-4a4d-bf8a-66fbd52be52d.png" width="500" /></br>
