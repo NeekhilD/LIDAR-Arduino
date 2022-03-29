@@ -30,7 +30,7 @@ The micro-controller only knows the angles of the servos and the distance to the
 # Future Application
 ## Can Be Deployed in `ARDUSAT`
 
-<img align="center" width="500px" src="https://i.pinimg.com/originals/9d/6a/db/9d6adb9b5865a9902d8ea2eeb515c1e5.png"/>
+<img align="center" width="300px" src="https://i.pinimg.com/originals/9d/6a/db/9d6adb9b5865a9902d8ea2eeb515c1e5.png"/>
 
 > ArduSat is an Arduino based nanosatellite, based on the CubeSat standard. 
 It contains a set of Arduino boards and sensors.
@@ -42,7 +42,7 @@ The general public will be allowed to use these Arduinos and sensors for their o
 # FRAME.IO
 The modern video workflow, `(re)defined`
 
-<img align="center" width="1000px" src="http://discountcode.online/wp-content/uploads/2018/12/frame.io-promo.png"/></br>
+<img align="center" width="800px" src="http://discountcode.online/wp-content/uploads/2018/12/frame.io-promo.png"/></br>
 
 
 
